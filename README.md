@@ -36,4 +36,3 @@
 - 💬 **Matrix:** [@nerdyslacker:matrix.org](https://matrix.to/#/@nerdyslacker:matrix.org)
 - 💬 **XMPP:** [nerdyslacker@jabber.am](xmpp:nerdyslacker@jabber.am)
 - ✈️ **Telegram:** [@nerdyslacker](https://t.me/nerdyslacker)
-- 📚 [All public repositories](https://github.com/nerdyslacker?tab=repositories)

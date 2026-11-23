@@ -28,7 +28,7 @@
 
 ## 🔧 Languages & tools
 
-`.NET` · `Go` · `Python` · `Odin` · `Bash` · `Linux` · `X11` · `XLibre` · `QML` · `Docker` · `Kubernetes`
+`.NET` · `Go` · `Python` · `Odin` · `JavaScript` · `Bash` · `Linux` · `Docker` · `Kubernetes`
 
 ## 🌐 Find me
 

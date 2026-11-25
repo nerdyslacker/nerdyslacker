@@ -13,7 +13,7 @@
 - 📋 [**minni**](https://github.com/nerdyslacker/minni) - standalone clipboard history manager for Linux.
 - ⚙️ [**lazysvctl**](https://github.com/lazylinuxos/lazysvctl) - runit service management utility.
 - 📻 [**priyomnik**](https://github.com/lazylinuxos/priyomnik) - minimal internet radio tray player.
-- 🛠️ [**Sysentra**](https://github.com/lazylinuxos/Sysentra) - system management center for Void Linux and derivatives.
+- 🛠️ [**Sysentra**](https://github.com/nerdyslacker/Sysentra) - system management center for Void Linux and derivatives.
   
 ### 🌐 Networking & communication
 - 🔐 [**cattail**](https://github.com/nerdyslacker/cattail) - unofficial Tailscale / Headscale client.
